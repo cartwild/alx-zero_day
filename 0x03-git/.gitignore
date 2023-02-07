@@ -1,4 +1,4 @@
 # .gitignore
-# Ignore Emacs backup files
-*~
 
+# ignore all files with the .secret file extension
+*.secret
